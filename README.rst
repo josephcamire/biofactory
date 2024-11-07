@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+BioPhorum BPOG
+Downstream Process Discrete Event Simulation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub repository is the inital commit for the Discrete Event Simulation workflow for the BPOG Downstream Simulator.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://docs.readthedocs.io/en/stable/
